@@ -78,15 +78,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/kelvynkhrystian">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&disable_animations=false" />
-  </a>
-</p>
 
-<br>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kelvynkhrystian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kelvynkhrystian&layout=compact&theme=tokyonight" />
-</div>
